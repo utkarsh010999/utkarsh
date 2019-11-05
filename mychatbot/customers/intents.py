@@ -1,0 +1,1 @@
+intents={'hii':'Hello!','goodbye':'Talk to you later, Goodbye!','name':"I'm saarthi",}
