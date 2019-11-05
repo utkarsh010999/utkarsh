@@ -1,0 +1,14 @@
+**django
+1.pip install virtualenv
+2.mkvirtualenv chatbot
+3.pip install django
+4.pip install djangorestframework
+5.pip install django-cors-headers
+6.pip install nltk
+7.pip install pyspellchecker==0.4.0
+8.pip install xlrd
+9.pip install fuzzywuzzy
+**frontend
+1.npm install 
+2.npm install axios
+3.npm start
