@@ -1,0 +1,8 @@
+.health-margin {
+  margin-top: 15%;
+}
+@media (max-width:425px) {
+  .health-margin{
+    font-size: 0.8rem;
+  }
+}

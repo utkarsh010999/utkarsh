@@ -1,0 +1,10 @@
+@media (max-width:426px) {
+    .mysumm {
+        margin-top: 4%;
+        margin-left: 33%;
+        font-size:0.8rem;
+    }
+    .dash_font{
+        font-size: 0.9rem;
+    }
+}

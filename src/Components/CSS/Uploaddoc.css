@@ -1,0 +1,95 @@
+@media (max-width: 426px) {
+  .docs {
+    width: 100%;
+    margin-top: 10%;
+  }
+  .subbtnn {
+    margin-top: 20%;
+    margin-right: 35%;
+  }
+  .formbtn
+  {
+    margin-top:75%;
+    margin-left: 30%;
+  }
+  .formform
+  {
+    margin-right: 20%;
+    text-align-last: center;
+    
+  }
+}
+@media (min-width: 768px) {
+  .docs {
+    width: 75%;
+    margin-top: -48%;
+    margin-left: 20%;
+  }
+  
+  .formbtn
+  {
+    width:40%;
+    margin-top: 4%;
+    margin-left: 2%;
+  }
+  .formform
+  {
+    margin-right: 0%;
+    
+  }
+  .pdf{
+    margin-top: 2%;
+  }
+  .subbtnn {
+    margin-top: 50%;
+    margin-left: 40%;
+  }
+}
+@media (min-width: 1024px) {
+  .docs {
+    width: 75%;
+    margin-top: -28%;
+    margin-left: 20%;
+  }
+  
+  .formbtn
+  {
+    width:40%;
+    margin-top: 4%;
+    margin-left: 2%;
+  }
+  .formform
+  {
+    margin-right: 0%;
+    
+  }
+  .pdf{
+    margin-top: 2%;
+  }
+  .subbtnn {
+    margin-top: 50%;
+    margin-left: 40%;
+  }
+}
+@media (min-width: 1080px) {
+  .docs {
+    width: 60%;
+    margin-left: 25%;
+    margin-top: -20%;
+  }
+  .subbtnn {
+    margin-right: 50%;
+  }
+  .formbtn
+  {
+    margin-top:2%;
+    margin-left: 10%;
+  }
+  .formform
+  {
+    margin-right: 0%;
+  }
+  .pdf{
+    margin-top: 3%;
+  }
+}

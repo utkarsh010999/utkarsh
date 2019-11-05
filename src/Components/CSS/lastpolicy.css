@@ -1,0 +1,21 @@
+@media (max-width:425px){
+    .datepolicy{
+        width: 70%;
+        margin-left: 15%;
+    }
+    #lang{
+        width: 70%;
+    }
+    .subbtnpolicy
+    {
+        margin-right: 25%;
+    }
+    .lastpolicy{
+        font-size: 1.5rem;
+    }
+}
+@media (min-width:1080px) {
+    .lastpolicy{
+        font-size: 2.5rem;
+    }
+}

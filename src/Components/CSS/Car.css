@@ -1,0 +1,23 @@
+@media (min-width: 1080px) {
+  .insertbox {
+    margin-left: 30%;
+    margin-top: 10%;
+    width: 40%;
+  }
+  .donotknow {
+    margin-left: -8%;
+  }
+}
+@media (max-width:425px) {
+  .insertbox{
+    width:70%;
+    margin-left: 19%;
+    
+  }
+}
+@media (max-width:1080px) and (min-width:768px){
+  .insertbox{
+    width: 50%;
+    margin-left: 28%;
+  }
+}

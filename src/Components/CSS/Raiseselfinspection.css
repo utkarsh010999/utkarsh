@@ -1,0 +1,43 @@
+@media (max-width: 426px) {
+  .raise {
+    width: 100%;
+    margin-top: 10%;
+  }
+  .subbtn{
+    margin-left: 38%;
+  }
+  .lsfont{
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 768px) {
+  .raise {
+    width: 75%;
+    margin-left: 20%;
+    margin-top: -50%;
+  }
+  .subbtn{
+    margin-left: 45%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .raise {
+    width: 75%;
+    margin-left: 20%;
+    margin-top: -30%;
+  }
+  .subbtn{
+    margin-left: 45%;
+  }
+}
+@media (min-width: 1080px) {
+  .raise {
+    width: 60%;
+    margin-left: 25%;
+    margin-top: -20%;
+  }
+  .subbtn{
+    margin-left: 45%;
+  }
+}

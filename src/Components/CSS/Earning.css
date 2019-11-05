@@ -1,0 +1,29 @@
+@media (max-width: 426px) {
+  .earn {
+    width: 100%;
+    margin-top: 10%;
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 768px) {
+  .earn {
+    width: 75%;
+    margin-left: 20%;
+    margin-top: -48%;
+  }
+}
+@media (min-width: 1024px) {
+  .earn {
+    width: 60%;
+    margin-left: 27%;
+    margin-top: -30%;
+  }
+}
+@media (min-width: 1080px) {
+  .earn {
+    width: 60%;
+    margin-left: 25%;
+    margin-top: -20%;
+  }
+}
+   

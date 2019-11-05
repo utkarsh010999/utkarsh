@@ -1,0 +1,153 @@
+.footer{
+    height: 13rem;
+    margin-top: 5%;
+}
+.fa:hover {
+    color:black;
+}
+.linkk{
+    color:black;
+}
+.linkk:hover{
+    color:white;
+}
+.linkk1{
+    color:black;
+}
+.linkk1:hover{
+    color:white;
+}
+@media (max-width:426px) {
+
+    .image{
+        margin-top: 40%;
+        margin-left: 40%;
+    }
+    .linkk4{
+        margin-top: -135%;
+        margin-left: -20%;
+        margin-right: -20%;
+        font-size: 0.8rem;
+    }
+    .iconss{
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: -30%;
+    }
+    .links2{
+        font-size: 0.8rem;
+        margin-left: -30%;
+        margin-right: -40%;
+        margin-top: 3%;
+    }
+    .footer{
+        height: 15rem;
+    }
+}
+@media (max-width:376px) {
+
+    .image{
+        margin-top: 30%;
+        margin-left: 40%;
+    }
+    .linkk4{
+        margin-top: -145%;
+        margin-left: -30%;
+        margin-right: -40%;
+        font-size: 0.8rem;
+    }
+    .iconss{
+        margin-top: 5%;
+        margin-left: 0%;
+        margin-right: -30%;
+    }
+    .links2{
+        font-size: 0.8rem;
+        margin-left: -30%;
+        margin-right: -40%;
+        margin-top: 3%;
+    }
+    .footer{
+        height: 14rem;
+    }
+}
+@media (min-width:768px) {
+
+    .image{
+        margin-left: 12%;
+        margin-top: 3%;
+    }
+    .linkk4{
+        margin-left: 49%;
+        margin-top: -36%;
+        margin-right: -10%;
+        font-size: 0.8rem;
+    }
+    .iconss{
+        margin-left: 58%;
+        margin-right: -10%;
+        margin-top: 5%;
+    }
+    .links2{
+        font-size: 0.8rem;
+        margin-left: 30%;
+        margin-right: -20%;
+    }
+    .links{
+        font-size: 0.8rem;
+        margin-top: 3%;
+    }
+}
+@media (min-width: 1024px) {
+    .image{
+        margin-left: 12%;
+        margin-top: -2%;
+    }
+    .linkk4{
+        margin-left: 39%;
+        margin-top: -30%;
+        font-size: 0.9rem;
+    }
+    .iconss{
+        margin-left: 48%;
+        margin-top: 5%;
+    }
+    .links2{
+        margin-top: 0%;
+        font-size: 0.9rem;
+        margin-left: 25%;
+    }
+    .links{
+        font-size: 0.8rem;
+        margin-top: 3%;
+    }
+    .footer{
+        height: 12rem;
+    }
+}
+@media (min-width: 1080px) {
+    .image{
+        margin-left:3%;
+        margin-top: -4%;
+    }
+    .linkk4{
+        margin-left: 39%;
+        margin-top: 8%;
+        font-size: 1rem;
+    }
+    .iconss{
+        margin-left: 48%;
+        margin-top: 5%;
+    }
+    .links2{
+        margin-top: 0%;
+        font-size: 1rem;
+        margin-left: 25%;
+    }
+    .links{
+        margin-top: -25%;
+    }
+    .footer{
+        height: 12rem;
+    }
+}

@@ -1,0 +1,222 @@
+
+@media (max-width: 426px) {
+    .formm{
+        
+        margin-left:0%;
+       }
+       .signn{
+           margin-left:40%
+       }
+       .compform{
+           margin-top: 5%;
+       }
+       .subbtn1
+       {
+           margin-left: 80%;
+           width: 50%;
+       }
+       .text{
+           margin-left: 40%;
+           width:100%
+       }
+       .text1
+       {
+           margin-left: 95%;
+           width: 100%;
+       }
+       .label{
+           margin-left: -10%;
+       }
+       .text2{
+           margin-left: 70%;
+           width:100%;
+       }
+       .text4
+       {
+           margin-left: 70%;
+           width: 100%;
+       }
+       .lastmargin{
+           margin-left: 70%;
+           margin-top: 7%;
+       }
+       .dismargin{
+        margin-left: 70%;
+    }
+    .alr{
+        margin-left: 40%;
+        margin-right: -30%;
+    }
+    .firstname
+    {
+        margin-top: -15%;
+        margin-left: 70%;
+    }
+    .mob{
+        margin-top: -15%;
+        margin-left: 70%;
+    }
+    .email{
+        margin-top: -15%;
+        margin-left: 70%;
+    }
+    .add{
+        margin-top: -15%;
+        margin-left: 70%;
+    }
+    .pass{
+        margin-top: -15%;
+        margin-left: 70%;  
+    }
+    .conpass{
+        margin-top: -15%;
+        margin-left: 70%; 
+    }
+  }
+  @media (min-width: 768px) {
+    .formm{
+        width: 35%;
+        margin-left: 33%;
+       }
+       .signn{
+           margin-left:50%
+       }
+       .compform{
+           margin-top: 5%;
+       }
+       .subbtn1
+       {
+           margin-left: 80%;
+           width: 50%;
+       }
+       .text{
+           margin-left: 40%;
+           width:150%
+       }
+       .text1
+       {
+           margin-left: 95%;
+           width: 150%;
+       }
+       .label{
+           margin-left: -10%;
+       }
+       .text2{
+           margin-left: 25%;
+           width: 150%;
+       }
+       .text4
+       {
+           margin-left: 60%;
+           width: 150%;
+       }
+       .lastmargin{
+           margin-left: 168%;
+       }
+       .dismargin{
+        margin-left: 133%;
+    }
+    .alr{
+        margin-left: 30%;
+        margin-right: -40%;
+    }
+    }
+  
+  @media(min-width:1024px){
+    .formm{
+        width: 30%;
+        margin-left: 35%;
+       }
+       .signn{
+           margin-left:50%
+       }
+       .compform{
+           margin-top: 5%;
+       }
+       .subbtn1
+       {
+           margin-left: 80%;
+           width: 50%;
+       }
+       .text{
+           margin-left: 40%;
+           width:150%
+       }
+       .text1
+       {
+           margin-left: 95%;
+           width: 150%;
+       }
+       .label{
+           margin-left: -10%;
+       }
+       .text2{
+           margin-left: 25%;
+           width: 150%;
+       }
+       .text4
+       {
+           margin-left: 60%;
+           width: 150%;
+       }
+       .lastmargin{
+           margin-left: 160%;
+       }
+       .dismargin{
+        margin-left: 127%;
+    }
+    .alr{
+        margin-left: 30%;
+        margin-right: -40%;
+    }
+  }
+ 
+@media (min-width:1080px){
+        .formm{
+        width: 20%;
+        margin-left: 40%;
+       }
+       .signn{
+           margin-left:50%
+       }
+       .compform{
+           margin-top: 5%;
+       }
+       .subbtn1
+       {
+           margin-left: 80%;
+           width: 50%;
+       }
+       .text{
+           margin-left: 40%;
+           width:150%
+       }
+       .text1
+       {
+           margin-left: 95%;
+           width: 150%;
+       }
+       .label{
+           margin-left: -10%;
+       }
+       .text2{
+           margin-left: 25%;
+           width: 150%;
+       }
+       .text4
+       {
+           margin-left: 60%;
+           width: 150%;
+       }
+       .lastmargin{
+           margin-left: 165%;
+       }
+       .dismargin{
+        margin-left: 130%;
+    }
+    .alr{
+        margin-left: 30%;
+        margin-right: -40%;
+    }
+}
+  

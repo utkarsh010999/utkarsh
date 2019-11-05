@@ -1,0 +1,9 @@
+@media (max-width: 426px) {
+  .listt {
+    width: 100%;
+    font-size: 0.8rem;
+    text-align: center;
+    line-height: 35%;
+  }
+}
+    

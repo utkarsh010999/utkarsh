@@ -1,0 +1,49 @@
+@media (min-width: 375px) {
+    .varcar{
+        margin-left:50% ;
+        margin-top: -27%;
+        margin-top: -25%;
+    }
+    .mancar{
+        margin-left: 50%;
+    }
+    .quotess{
+        margin-top: -70%;
+    }
+    .quotcard{
+        margin-top: -80%;
+    }
+    .card2{
+        margin-top:20% ;
+    }
+    .card4{
+        margin-top: 63%;
+    }
+    .card5{
+        margin-top: 63%;
+    }
+    .card6{
+        margin-top: 40%;
+    }
+    .card7{
+        margin-top: 40%;
+    }
+    .card8{
+        margin-top: 40%;
+    }
+    .card9{
+        margin-top: 63%;
+    }
+    
+}
+@media (min-width:1080px){
+    .quotes1{
+        margin-top: 3rem;
+    }
+    .quotes2{
+        margin-top: 2rem;
+    }
+    .quotes3{
+        margin-top: 2rem;
+    }
+}

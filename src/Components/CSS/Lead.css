@@ -1,0 +1,42 @@
+@media (max-width: 426px) {
+  .lead {
+    width: 100%;
+    margin-top: 35%;
+    font-size: 0.8rem;
+  }
+  .btns {
+    margin-right: 18%;
+  }
+}
+@media (min-width: 768px) {
+  .lead {
+    width: 75%;
+    margin-left: 20%;
+    margin-top: -48%;
+  }
+  .btns {
+    margin-right: 25%;
+  }
+}
+@media (min-width: 1024px) {
+  .lead {
+    width: 60%;
+    margin-left: 27%;
+    margin-top: -30%;
+  }
+  .btns {
+    margin-right: 25%;
+  }
+}
+
+@media (min-width: 1080px) {
+  .lead {
+    width: 60%;
+    margin-left: 25%;
+    margin-top: -20%;
+    font-size: 1rem;
+  }
+  .btns {
+    margin-right: 35%;
+  }
+}

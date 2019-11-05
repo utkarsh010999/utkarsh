@@ -1,0 +1,162 @@
+@media (max-width: 426px) {
+    .loginn{
+        margin-top: 5%;
+        margin-left: 40%;
+    }
+    .formm1{
+        margin-left: 14%;
+    }
+    .field1{
+        margin-left:20%;
+        margin-top:-13%;
+        width: 100%;
+    }
+    .field2{
+        margin-left:20%;
+        margin-top:-13%;
+        width: 100%;
+    }
+    .labelsign{
+        margin-left: -10%;
+        margin-top: 10%;
+    }
+    .labelsign1{
+        margin-left:80%;
+        margin-top: -8%;
+    }
+    .signlogin
+    {
+        margin-top: 10%;
+    }
+    .phonelabel{
+        margin-top: 20%;
+    }
+    .passlabel{
+        margin-top: 20%;
+    }
+    .sublogin{
+        margin-left: 20%;
+    }
+  }
+  @media (min-width: 768px) {
+    .loginn{
+        margin-top: 5%;
+        margin-left: 48%;
+    }
+    .formm1{
+        margin-left: 7%;
+    }
+    .field1{
+        margin-left:10%;
+        margin-top:10%;
+        width: 100%;
+    }
+    .field2{
+        margin-left:0%;
+        margin-top:10%;
+        width: 100%;
+    }
+    .labelsign{
+        margin-left: -20%;
+        margin-top: 10%;
+    }
+    .labelsign1{
+        margin-left:15%;
+        margin-top: 10%;
+    }
+    .signlogin
+    {
+        margin-top: 10%;
+    }
+    .phonelabel{
+        margin-top: 10%;
+    }
+    .passlabel{
+        margin-top: 10%;
+    }
+    .sublogin{
+        margin-left: 20%;
+    }
+  }
+  @media(min-width:1024px){
+    .loginn{
+        margin-top: 5%;
+        margin-left: 48%;
+    }
+    .formm1{
+        margin-left: 7%;
+    }
+    .field1{
+        margin-left:10%;
+        margin-top:10%;
+        width: 100%;
+    }
+    .field2{
+        margin-left:0%;
+        margin-top:10%;
+        width: 100%;
+    }
+    .labelsign{
+        margin-left: -20%;
+        margin-top: 10%;
+    }
+    .labelsign1{
+        margin-left:15%;
+        margin-top: 10%;
+    }
+    .signlogin
+    {
+        margin-top: 10%;
+    }
+    .phonelabel{
+        margin-top: 10%;
+    }
+    .passlabel{
+        margin-top: 10%;
+    }
+    .sublogin{
+        margin-left: 20%;
+    }
+  }
+ 
+@media (min-width:1080px){
+    .loginn{
+        margin-top: 5%;
+        margin-left: 48%;
+    }
+    .formm1{
+        margin-left: 14%;
+    }
+    .field1{
+        margin-left:10%;
+        margin-top:10%;
+        width: 100%;
+    }
+    .field2{
+        margin-left:0%;
+        margin-top:10%;
+        width: 100%;
+    }
+    .labelsign{
+        margin-left: -20%;
+        margin-top: 10%;
+    }
+    .labelsign1{
+        margin-left:15%;
+        margin-top: 10%;
+    }
+    .signlogin
+    {
+        margin-top: 10%;
+    }
+    .phonelabel{
+        margin-top: 10%;
+    }
+    .passlabel{
+        margin-top: 10%;
+    }
+    .sublogin{
+        margin-left: 20%;
+    }
+}
+  

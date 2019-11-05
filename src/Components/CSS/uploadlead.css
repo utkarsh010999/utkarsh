@@ -1,0 +1,62 @@
+@media (max-width: 426px) {
+  .container {
+    justify-content: center;
+    width: 60%;
+    font-size: 0.8rem;
+  }
+  .btnupload {
+    margin-left: 10%;
+    font-size: 0.8rem;
+  }
+  .labelupload {
+    font-size: 1.7rem;
+    margin-top: 10%;
+  }
+}
+@media (min-width: 768px) {
+    
+  .uploadlead {
+    width: 75%;
+    margin-left: 33%;
+    margin-top: -2%;
+  }
+  
+  .labelupload {
+   
+    margin-top: -53%;
+    margin-left: 18%;
+  }
+  .btnupload {
+    margin-left: -50%;
+    
+  }
+  
+}
+@media (min-width: 1024px) {
+  .uploadlead {
+    width: 60%;
+    margin-left: 41%;
+    /* margin-top: -60%; */
+  }
+  .labelupload {
+    
+    margin-top: -33%;
+  }
+  .btnupload {
+    margin-left: -55%;
+   
+  }
+  
+}
+@media (min-width: 1080px) {
+  .uploadlead {
+    margin-left: 38%;
+  }
+  .labelupload {
+    margin-top: -25%;
+    margin-left: 7%;
+  }
+  .btnupload {
+    margin-right: 4%;
+  }
+}

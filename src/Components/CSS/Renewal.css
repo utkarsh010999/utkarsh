@@ -1,0 +1,28 @@
+@media (max-width: 426px) {
+  .policy {
+    width: 100%;
+    margin-top: 10%;
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 768px) {
+  .policy {
+    width: 75%;
+    margin-left: 20%;
+    margin-top: -48%;
+  }
+}
+@media(min-width:1024px){
+  .policy{
+    width:60%;
+    margin-left: 27%;
+    margin-top: -30%;
+  }
+}
+@media (min-width: 1080px) {
+  .policy {
+    width: 60%;
+    margin-left: 25%;
+    margin-top: -20%;
+  }
+}

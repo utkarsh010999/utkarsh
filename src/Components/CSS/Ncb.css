@@ -1,0 +1,61 @@
+@media (max-width: 426px) {
+  .ncb {
+    width: 100%;
+    margin-top: 40%;
+    font-size: 0.8rem;
+  }
+  
+  .dateplace {
+    width: 50%;
+    margin-left: 25%;
+  }
+  .showbtn {
+    margin-top: 5%;
+    margin-right: 35%;
+  }
+}
+@media (min-width: 768px) {
+  .ncb {
+    width: 73%;
+    margin-left: 21%;
+    margin-top: -48%;
+  }
+  
+  .dateplace {
+    width: 220%;
+    margin-left: -40%;
+  }
+  .showbtn {
+    margin-top: 4%;
+    margin-right:40%;
+  }
+  .frmm{
+    margin-right: 5%;
+  }
+}
+@media (min-width: 1024px) {
+  .ncb {
+    width: 73%;
+    margin-left: 21%;
+    margin-top: -30%;
+  }
+  
+  .dateplace {
+    width: 200%;
+    margin-left: -40%;
+  }
+  .showbtn {
+    margin-top: 4%;
+    margin-right:40%;
+  }
+  .frmm{
+    margin-right: 5%;
+  }
+}
+@media (min-width: 1080px) {
+  .ncb {
+    width: 60%;
+    margin-left: 25%;
+    margin-top: -20%;
+  }
+}
