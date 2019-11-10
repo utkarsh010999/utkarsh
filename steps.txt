@@ -1,13 +1,15 @@
 **django
 1.pip install virtualenv
-2.mkvirtualenv chatbot
-3.pip install django
-4.pip install djangorestframework
-5.pip install django-cors-headers
-6.pip install nltk
-7.pip install pyspellchecker==0.4.0
-8.pip install xlrd
-9.pip install fuzzywuzzy
+2.virtualenv chatbot
+3.cahtbot\scripts\activate
+4.pip install django
+5.pip install djangorestframework
+6.pip install django-cors-headers
+7.pip install nltk
+8.pip install pyspellchecker==0.4.0
+9.pip install xlrd
+10.pip install fuzzywuzzy
+11.open fuzzy.py and change path of data1 and car_insurance.xls
 **frontend
 1.npm install 
 2.npm install axios
